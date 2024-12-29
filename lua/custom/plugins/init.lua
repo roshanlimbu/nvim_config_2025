@@ -1,6 +1,7 @@
 require 'custom.autocommands.autocmds'
 require 'custom.keymaps.keymaps'
 require 'custom.plugins.harpoon'
+
 return {
   {
     'akinsho/toggleterm.nvim',
